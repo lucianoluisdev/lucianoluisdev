@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Luciano Silva 👋
 
-<!--
-**lucianoluisdev/lucianoluisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Desenvolvedor | Automação de Processos, Dados & Infraestrutura**
 
-Here are some ideas to get you started:
+Especialista no desenvolvimento de automações, rotinas de dados, conteinerização de aplicações e otimização de processos operacionais utilizando Python, SQL Server, PowerShell e Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **Minhas Tecnologias & Ferramentas**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### **Conecte-se comigo**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-silva-dev)
